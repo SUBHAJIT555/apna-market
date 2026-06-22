@@ -5,8 +5,8 @@ import { selectProducts } from "@/lib/productSelector";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Shop | Supreme Cart",
-  description: "Shop electronics, books, stationery, and garments at Supreme Cart. Honest prices, fast delivery across India.",
+  title: "Shop | Apna Market",
+  description: "Shop electronics, books, stationery, and garments at Apna Market. Honest prices, fast delivery across India.",
   // other metadata
 };
 

@@ -3,8 +3,8 @@ import { Wishlist } from "@/components/Wishlist";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Wishlist | Supreme Cart",
-  description: "Your wishlist at Supreme Cart. Save items and buy when you're ready.",
+  title: "Wishlist | Apna Market",
+  description: "Your wishlist at Apna Market. Save items and buy when you're ready.",
   // other metadata
 };
 

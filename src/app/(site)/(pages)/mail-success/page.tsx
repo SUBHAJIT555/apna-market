@@ -3,8 +3,8 @@ import MailSuccess from "@/components/MailSuccess";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Order Confirmed | Supreme Cart",
-  description: "Thank you for your order. Supreme Cart will process and deliver it soon.",
+  title: "Order Confirmed | Apna Market",
+  description: "Thank you for your order. Apna Market will process and deliver it soon.",
   // other metadata
 };
 

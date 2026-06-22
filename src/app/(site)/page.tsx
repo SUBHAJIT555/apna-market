@@ -2,10 +2,11 @@ import Home from "@/components/Home";
 import { getSiteNumber } from "@/lib/siteConfig";
 import { selectProducts } from "@/lib/productSelector";
 import { Metadata } from "next";
+import { siteConfig } from "@/config/site";
 
 export const metadata: Metadata = {
-  title: "Supreme Cart | Online Shopping for Electronics, Books, Stationery, and Garments",
-  description: "Supreme Cart is India's trusted store for electronics, books, stationery, and garments. Enjoy honest prices, fast delivery, and support made for Indian shoppers.",
+  title: siteConfig.metadata.defaultTitle,
+  description: siteConfig.metadata.defaultDescription,
   // other metadata
 };
 

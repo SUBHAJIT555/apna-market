@@ -106,6 +106,32 @@ const Contact = () => {
                 <div className="flex flex-col gap-4 p-5 sm:p-6">
                   <div className="flex items-start gap-4 rounded-xl border border-neutral-300 bg-gray-1 p-4">
                     <div className={iconWrapClass}>
+                      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" aria-hidden>
+                        <path
+                          d="M12 3C7.03 3 3 7.03 3 12s4.03 9 9 9 9-4.03 9-9-4.03-9-9-9zm0 16c-3.87 0-7-3.13-7-7s3.13-7 7-7 7 3.13 7 7-3.13 7-7 7z"
+                          fill="currentColor"
+                        />
+                        <path
+                          d="M11 7h2v6h-2V7zm0 8h2v2h-2v-2z"
+                          fill="currentColor"
+                        />
+                      </svg>
+                    </div>
+                    <div>
+                      <p className="mb-0.5 text-sm font-medium text-dark">Website</p>
+                      <a
+                        href={siteConfig.brand.url}
+                        className="text-sm text-green-600 transition-colors hover:text-green-700"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        {siteConfig.brand.domain}
+                      </a>
+                    </div>
+                  </div>
+
+                  <div className="flex items-start gap-4 rounded-xl border border-neutral-300 bg-gray-1 p-4">
+                    <div className={iconWrapClass}>
                       <svg width="20" height="20" viewBox="0 0 22 22" fill="none" aria-hidden>
                         <path
                           fillRule="evenodd"

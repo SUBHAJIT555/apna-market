@@ -2,13 +2,13 @@ import { Testimonial } from "@/types/testimonial";
 
 const testimonialsData: Testimonial[] = [
   {
-    review: `Great quality products at honest prices. Ordered a wireless mouse and notebooks—delivery was fast and packaging was neat. Will order again from Supreme Cart.`,
+    review: `Great quality products at honest prices. Ordered a wireless mouse and notebooks—delivery was fast and packaging was neat. Will order again from Apna Market.`,
     authorName: "Priya Sharma",
     authorImg: "/images/users/user-01.jpg",
     authorRole: "College Student",
   },
   {
-    review: `Needed stationery and a power bank in a hurry. Supreme Cart had everything under one roof. Cash on delivery made it so convenient. Highly recommend!`,
+    review: `Needed stationery and a power bank in a hurry. Apna Market had everything under one roof. Cash on delivery made it so convenient. Highly recommend!`,
     authorName: "Rahul Verma",
     authorImg: "/images/users/user-02.jpg",
     authorRole: "Software Engineer",
@@ -26,7 +26,7 @@ const testimonialsData: Testimonial[] = [
     authorRole: "Freelancer",
   },
   {
-    review: `Ordered electronics and stationery multiple times. Quality is consistent and delivery is always on time. Supreme Cart is reliable and affordable.`,
+    review: `Ordered electronics and stationery multiple times. Quality is consistent and delivery is always on time. Apna Market is reliable and affordable.`,
     authorName: "Kavitha Reddy",
     authorImg: "/images/users/user-02.jpg",
     authorRole: "Teacher",

@@ -2,8 +2,8 @@ import PrivacyPolicy from "@/components/PrivacyPolicy";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Privacy Policy | Supreme Cart",
-  description: "How Supreme Cart collects, uses, and protects your personal information.",
+  title: "Privacy Policy | Apna Market",
+  description: "How Apna Market collects, uses, and protects your personal information.",
   // other metadata
 };
 

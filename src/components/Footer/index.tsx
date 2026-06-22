@@ -192,6 +192,14 @@ const Footer = () => {
               >
                 {siteConfig.brand.email.general}
               </a>
+              <a
+                href={siteConfig.brand.url}
+                className={`${linkBaseClass} font-medium`}
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                {siteConfig.brand.domain}
+              </a>
             </div>
           </div>
         </div>

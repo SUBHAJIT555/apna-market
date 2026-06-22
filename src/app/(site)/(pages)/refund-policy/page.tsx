@@ -2,8 +2,8 @@ import RefundPolicy from "@/components/RefundPolicy";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Refund Policy | Supreme Cart",
-  description: "Supreme Cart refund and return policy. Easy 7-day returns for your peace of mind.",
+  title: "Refund Policy | Apna Market",
+  description: "Apna Market refund and return policy. Easy 7-day returns for your peace of mind.",
   // other metadata
 };
 

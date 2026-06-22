@@ -3,8 +3,8 @@ import Checkout from "@/components/Checkout";
 
 import { Metadata } from "next";
 export const metadata: Metadata = {
-  title: "Checkout | Supreme Cart",
-  description: "Complete your order at Supreme Cart. Secure checkout with UPI, cards, and cash on delivery.",
+  title: "Checkout | Apna Market",
+  description: "Complete your order at Apna Market. Secure checkout with UPI, cards, and cash on delivery.",
   // other metadata
 };
 
